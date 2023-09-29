@@ -17,12 +17,12 @@ function showSlide(index) {
 	sliders.forEach((slider, i) => {
 		if (i === index) {
 			slider.style.opacity = "1";
-			// slider.style.display = "block";
-			slider.style.transition = "opacity 0.5s";
+			slider.style.transition = "opacity 1.5s";
+			slider.style.zIndex = "1";
 		} else {
 			slider.style.opacity = "0";
-			// slider.style.display = "none";
 			slider.style.transition = "none";
+			slider.style.zIndex = "0";
 		}
 	});
 }
@@ -36,5 +36,5 @@ function showNextSlide() {
 // Initial display
 showSlide(currentSlideIndex);
 
-// Automatically change slide every 1 second
-setInterval(showNextSlide, 3000);
+// Automatically change slide every 5 second
+setInterval(showNextSlide, 5000);
