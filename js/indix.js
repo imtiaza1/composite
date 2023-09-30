@@ -1,3 +1,4 @@
+// menu
 let menu = document.getElementById("menu");
 let list = document.getElementById("list");
 
@@ -9,6 +10,8 @@ menu.addEventListener("click", function () {
 		list.style.transform = "translateY(-418px)";
 	}
 });
+
+// slider
 const sliders = document.querySelectorAll(".slide");
 let currentSlideIndex = 0; // Keeps track of the current slide index
 
