@@ -3,13 +3,8 @@ let menu = document.getElementById("menu");
 let list = document.getElementById("list");
 
 menu.addEventListener("click", function () {
-	if (list.style.transform === "scaleX(0)") {
-		list.style.transform = "scaleX(1)";
-	} else {
-		list.style.transform = "scaleX(0)";
-	}
+	list.classList.toggle("show");
 });
-
 // slider
 const sliders = document.querySelectorAll(".slide");
 let currentSlideIndex = 0; // Keeps track of the current slide index
