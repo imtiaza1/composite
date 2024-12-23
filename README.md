@@ -1,7 +1,7 @@
 # 💼 Composite - Web Design Agency Website Clone
 
 ## 📝 Description
-**Composite** is a frontend project created as a clone of a random web design agency website. This project demonstrates frontend development skills by recreating the design and structure of an agency's website, showcasing services offered by a web design company, and providing information about the team, portfolio, and client testimonials.
+**Composite** is a frontend project that I created based on a web design agency template I found online. I recreated it from scratch for my learning experience. This project demonstrates frontend development skills by rebuilding the design and structure of a web design agency website, showcasing the services offered by a design company, and providing information about the team, portfolio, and client testimonials.
 
 Developed for learning purposes, **Composite** uses modern web development practices to build a responsive, user-friendly, and visually appealing website. The site also incorporates smooth scrolling animations powered by **GSAP** for a more engaging and interactive user experience.
 
@@ -48,7 +48,7 @@ Developed for learning purposes, **Composite** uses modern web development pract
 ---
 
 ## 🙌 Acknowledgements
-This project was developed as part of a learning exercise and is a clone of an existing web design agency website. No content or design is original to the source. **GSAP** was used to implement smooth scrolling and animations for a better user experience.
+This project was developed as part of a learning exercise and is based on a web design agency template I found online. I recreated it from scratch using **HTML**, **CSS**, and **JavaScript**. The content and design are not original, and the project was rebuilt for educational purposes. **GSAP** was used to implement smooth scrolling and animations for a better user experience.
 
 ---
 
