@@ -47,15 +47,4 @@ Developed for learning purposes, **Composite** uses modern web development pract
 
 ---
 
-## 🙌 Acknowledgements
-This project was developed as part of a learning exercise and is based on a web design agency template I found online. I recreated it from scratch using **HTML**, **CSS**, and **JavaScript**. The content and design are not original, and the project was rebuilt for educational purposes. **GSAP** was used to implement smooth scrolling and animations for a better user experience.
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**. Feel free to use, modify, or contribute to it!
-
----
-
-## 🖋️ Author
-Developed by **[Imtiaz Ali](https://github.com/imtiaza1)**.
